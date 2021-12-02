@@ -1,0 +1,21 @@
+.image {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border-radius: 50%;
+  display: block;
+  margin: 0px auto;
+}
+
+.add-btn {
+  background-color: rosybrown;
+  border-radius: 10px;
+}
+
+.card {
+  background-color: rgb(224, 223, 223) !important;
+  border-radius: 10px !important;
+}
+.card-container {
+  padding-top: 20px !important;
+}
